@@ -2,7 +2,6 @@
 
 ## 1. 小车组件介绍
 - 1. 小车主体
-![image](https://github.com/MingkaiSheng/robot-ws/assets/51042944/ff10c3c2-1bfc-454d-b553-75b8d2e738c1)
 
 TODO
 ```
